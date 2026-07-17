@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.build/
+dist/
+.git/
+.github/
+.chroma_db/
+uploads/
